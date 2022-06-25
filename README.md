@@ -1,3 +1,3 @@
 # GNU_CLUB
 ### 경상대학교 동아리 소개 웹 사이트 (2020)
-2020 2학기 웹 프로그래밍 팀 프로젝트
+2020 Web Programming Class Project
